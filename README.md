@@ -1,2 +1,1 @@
-# CursoHenry
-Uso academico
+Este proyecto es una prueba
